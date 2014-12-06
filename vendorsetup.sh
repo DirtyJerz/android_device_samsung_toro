@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo aosp_toro-userdebug
-add_lunch_combo fml_toro-userdebug
+add_lunch_combo fml_toro-user
 add_lunch_combo omni_toro-userdebug
